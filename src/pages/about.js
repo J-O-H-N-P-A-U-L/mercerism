@@ -4,7 +4,7 @@ import { StaticImage } from 'gatsby-plugin-image'
 
 const AboutPage = () => {
     return (
-        <Layout pageTitle="Home Page">
+        <Layout pageTitle="About Page">
           <p>Mercer.</p>
           <StaticImage
             alt="mercer"
